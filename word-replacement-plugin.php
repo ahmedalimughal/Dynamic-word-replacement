@@ -9,6 +9,7 @@ License: GPL v2 or later
 Version: 1.0.1
 Requires at least: 6.2
 Requires PHP: 7.4
+GitHub Plugin URI: https://github.com/ahmedalimughal/Dynamic-word-replacement
 */
 
 // Add a settings page to the admin menu
