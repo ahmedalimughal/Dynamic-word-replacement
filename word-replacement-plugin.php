@@ -6,7 +6,7 @@ Description: Replace a word throughout the site dynamically.
 Author: Ahmed Ali Mughal
 Author URI: https://ahmedalimughal.netlify.app/
 License: GPL v2 or later
-Version: 1.0.1
+Version: 1.0.2
 Requires at least: 6.2
 Requires PHP: 7.4
 GitHub Plugin URI: ahmedalimughal/Dynamic-word-replacement
