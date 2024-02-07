@@ -9,7 +9,7 @@ License: GPL v2 or later
 Version: 1.0.1
 Requires at least: 6.2
 Requires PHP: 7.4
-GitHub Plugin URI: https://github.com/ahmedalimughal/Dynamic-word-replacement
+GitHub Plugin URI: ahmedalimughal/Dynamic-word-replacement
 */
 
 // Add a settings page to the admin menu
@@ -93,3 +93,17 @@ function replace_word_content($content) {
 add_filter('the_content', 'replace_word_content');
 add_filter('the_title', 'replace_word_content');
 add_filter('widget_text_content', 'replace_word_content');
+function word_replacement_check_for_updates() {
+    $current_version = '1.0.2'; // Current version of your plugin
+    $installed_version = get_option('word_replacement_version');
+
+    if ($installed_version !== $current_version) {
+        // Run update tasks if needed
+        // Example: update_database_structure();
+
+        // Update the version number
+        update_option('word_replacement_version', $current_version);
+    }
+}
+
+add_action('admin_init', 'word_replacement_check_for_updates');
