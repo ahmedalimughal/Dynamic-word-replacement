@@ -1,7 +1,7 @@
 # Dynamic Word Replacement WordPress Plugin
 
 Contributors: Ahmed Ali Mughal
-Donate link: https://contactform7.com/donate/
+Donate link: https://www.buymeacoffee.com/ahmedalimughal
 Tags: DynamicTextWP, WordSwapPro, ContentDynamicizer, ReplaceMeDynamic, WPTextSwitch, DynamicWordMagic, SmartWordReplace, DynamicContentTags, WPDynamicReplace, TextSwapMaster, WordDynamicPress, ReplaceItWP, DynamicWordSwitcher, WPContentReplace, TextDynoPress, WordMorphWP, DynamicTextWizard, WPReplaceMaster, ContentSwitchPro, DynamicTagMaster
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
