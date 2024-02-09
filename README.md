@@ -1,5 +1,11 @@
 # Dynamic Word Replacement WordPress Plugin
 
+Contributors: Ahmed Ali Mughal
+Donate link: https://contactform7.com/donate/
+Tags: DynamicTextWP, WordSwapPro, ContentDynamicizer, ReplaceMeDynamic, WPTextSwitch, DynamicWordMagic, SmartWordReplace, DynamicContentTags, WPDynamicReplace, TextSwapMaster, WordDynamicPress, ReplaceItWP, DynamicWordSwitcher, WPContentReplace, TextDynoPress, WordMorphWP, DynamicTextWizard, WPReplaceMaster, ContentSwitchPro, DynamicTagMaster
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
 ## Description
 
 Replace a word throughout your WordPress site dynamically using this simple yet effective plugin. Users can configure the original word and its replacement through the WordPress admin interface.
